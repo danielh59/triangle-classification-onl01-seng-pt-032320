@@ -7,8 +7,9 @@ def initialize(side1, side2, side3)
 @side3 = side3
 end
 
-def kind(triangle)
-self.triangle =
+def kind
+case triangle
+when side1 == side2 == side3
 end
 
 end
