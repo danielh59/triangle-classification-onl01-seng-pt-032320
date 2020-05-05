@@ -8,8 +8,8 @@ def initialize(equilateral, isosceles, scalene)
 end
 
 def kind(triangle)
-  
 
-end 
+
+end
 
 end
