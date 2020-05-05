@@ -9,7 +9,7 @@ end
 
 def kind
 case self
-when side1 == side2 && side2 == side3
+when @side1 == @side2 && @side2 == @side3
   :equilateral
 end
 end
