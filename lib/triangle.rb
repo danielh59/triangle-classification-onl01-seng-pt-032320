@@ -7,5 +7,9 @@ def initialize(equilateral, isosceles, scalene)
 @scalene = scalene
 end
 
+def kind(triangle)
+  
+
+end 
 
 end
