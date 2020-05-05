@@ -12,5 +12,6 @@ case triangle
 when side1 == side2 == side3
   :equilateral
 end
+end
 
 end
