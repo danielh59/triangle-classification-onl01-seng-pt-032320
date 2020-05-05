@@ -8,7 +8,7 @@ def initialize(side1, side2, side3)
 end
 
 def kind
-case triangle
+case self
 when side1 == side2 && side2 == side3
   :equilateral
 end
